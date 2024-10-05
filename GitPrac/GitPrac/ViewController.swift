@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Hello! This is Test 2 for Git")
+        print("AND SOPT 35th iOS")
         // Do any additional setup after loading the view.
     }
 
