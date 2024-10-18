@@ -13,6 +13,7 @@
 		8336B4E12CB0152F0034474E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8336B4E02CB0152F0034474E /* Base */; };
 		8336B4E32CB015310034474E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8336B4E22CB015310034474E /* Assets.xcassets */; };
 		8336B4E62CB015310034474E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8336B4E52CB015310034474E /* Base */; };
+		83D80DD52CC273CD00DD5410 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D80DD42CC273CD00DD5410 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8336B4E22CB015310034474E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8336B4E52CB015310034474E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8336B4E72CB015310034474E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83D80DD42CC273CD00DD5410 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = ../../../../../../.Trash/GitPrac/GitPrac/GitPrac/LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8336B4E22CB015310034474E /* Assets.xcassets */,
 				8336B4E42CB015310034474E /* LaunchScreen.storyboard */,
 				8336B4E72CB015310034474E /* Info.plist */,
+				83D80DD42CC273CD00DD5410 /* LoginViewController.swift */,
 			);
 			path = GitPrac;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83D80DD52CC273CD00DD5410 /* LoginViewController.swift in Sources */,
 				8336B4DE2CB0152F0034474E /* ViewController.swift in Sources */,
 				8336B4DA2CB0152F0034474E /* AppDelegate.swift in Sources */,
 				8336B4DC2CB0152F0034474E /* SceneDelegate.swift in Sources */,
